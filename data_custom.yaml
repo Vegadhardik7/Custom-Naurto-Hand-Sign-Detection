@@ -1,0 +1,6 @@
+train: E:\NARUTO-PROJECT-HANDSIGN\train
+val: E:\NARUTO-PROJECT-HANDSIGN\val
+
+nc: 12
+
+names: ['bird', 'boar', 'dog', 'dragon', 'hare', 'horse', 'monkey', 'ox', 'ram', 'rat', 'snake', 'tiger']
